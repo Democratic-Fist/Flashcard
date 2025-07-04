@@ -42,7 +42,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Como você resolve uma equação quadrática do tipo ax2+bx+c=0?',
-
+    'utiliza-se a fórmula de Baskhara: X = (-b ±√Δ)/(2*a) enquanto Δ = b²-4*a*c'
 )
 
 criaCartao(
