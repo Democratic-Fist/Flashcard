@@ -127,17 +127,53 @@ criaCartao(
 criaCartao(
     'esportes',
     'Como o ciclismo de pista é diferente do ciclismo de estrada em termos de técnicas e competições?',
-
+    'No ciclismo de pista, os atletas competem utilizando bicicletas fixas em um ambiente controlado. Já no ciclismo de estrada, as provas ocorrem em vias públicas, com terrenos variados e exigindo resistência e estratégias de equipe para longas distâncias. '
 )
 
 criaCartao(
     'Esportes',
     'Quem é o maior vencedor de Grand Slams na história do tênis, e quais são os maiores torneios da modalidade?',
-
+    'O maior vencedor de Grand Slams na história do tênis é Novak Djokovic, com 24 títulos, seguido por Rafael Nadal com 22 e Roger Federer com 20. Os maiores torneios de tênis, conhecidos como Grand Slams, são: Aberto da Austrália, Roland Garros, Wimbledon e US Open. '
 )
 
 criaCartao(
     'Esportes',
     'O que é o "triplo-duplo" no basquete e quais são os desafios para um jogador alcançar essa estatística em uma partida?',
+    'No basquete, um "triplo-duplo" acontece quando um jogador registra dois dígitos (10 ou mais) em três das cinco principais categorias estatísticas de um jogo: pontos, rebotes, assistências, roubos de bola e bloqueios. '
+)
 
+criaCartao(
+    'Filmes',
+    'Como o filme Barbie de 2023, dirigido por Greta Gerwig, aborda questões de identidade e feminismo, e o que o torna único em relação a outros filmes de "brinquedos"?',
+    'Aborda a identidade e o feminismo de maneira complexa e multifacetada, explorando as contradições e tensões entre o mundo idealizado da Barbielândia e a realidade do mundo real.'
+)
+
+criaCartao(
+    'Filmes',
+    'Como a introdução de personagens como Pantera Negra e Mulher-Maravilha ajudou a expandir a representação de diferentes culturas e etnias no MCU e no universo de filmes de super-heróis?',
+    'não apenas trouxeram personagens principais de grupos étnicos historicamente sub-representados, mas também exploraram suas culturas e histórias de maneiras complexas e positivas.'
+)
+
+criaCartao(
+    'Filmes',
+    'O que torna o filme O Cavaleiro das Trevas (2008) de Christopher Nolan um dos mais aclamados filmes de super-herói da história, especialmente em relação ao Coringa interpretado por Heath Ledger?',
+    '"O Cavaleiro das Trevas" é aclamado por sua abordagem realista e sombria do gênero de super-heróis, que trouxe profundidade psicológica e complexidade ao personagem.'
+)
+
+criaCartao(
+    'Filmes',
+    'Como o filme Minecraft aproveita a natureza sandbox do jogo para criar uma narrativa cativante, e o que o torna tão imersivo?',
+    'O filme "Minecraft" explora a natureza sandbox do jogo ao permitir que os personagens criem e interajam com o mundo de blocos de forma livre, impulsionando a narrativa e a imersão.'
+)
+
+criaCartao(
+    'Filmes',
+    'Como o filme Sonic: O Filme (2020) e sua sequência equilibraram a nostalgia dos fãs de longa data com uma história acessível para um público mais jovem, e como isso afetou o sucesso da franquia nos cinemas?',
+    'Os filmes "Sonic: O Filme" e sua sequência conseguiram um equilíbrio notável entre nostalgia e acessibilidade, atraindo tanto fãs antigos quanto um público mais jovem. O sucesso nos cinemas foi impulsionado por essa abordagem.'
+)
+
+criaCartao(
+    'Filmes',
+    'O que torna Django Livre (2012) uma obra-prima do western moderno, e como a direção de Quentin Tarantino mistura elementos do gênero com uma crítica social à escravidão nos Estados Unidos?',
+    'Tarantino revitaliza o gênero western ao mesclar elementos clássicos com uma abordagem explícita e visceral da violência racial, transformando o filme em um veículo para discutir temas como racismo, vingança e liberdade individual.'
 )
